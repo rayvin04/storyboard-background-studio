@@ -2,6 +2,8 @@
 
 **Paste a complete script and get a scene-by-scene storyboard.** The app also shows a small gallery of previously generated background examples so people can see the intended kind of environment artwork.
 
+**[Open the live demo](https://storyboard-background-studio.vercel.app/)** · [View the GitHub repository](https://github.com/rayvin04/storyboard-background-studio)
+
 > **Image generation is off in this demo.** The gallery is static. A submitted script creates a storyboard only; it does not request or generate new images.
 
 ## What the app does
