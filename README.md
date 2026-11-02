@@ -72,6 +72,7 @@ storyboard-background-studio/
 ├── README.md
 └── docs/
     └── images/
+        ├── readme-cover.jpg
         └── storyboard-workflow.png
 ```
 
