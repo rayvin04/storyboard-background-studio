@@ -1,5 +1,7 @@
 # Storyboard & Background Studio
 
+![Storyboard & Background Studio — script to storyboard cover](docs/images/readme-cover.jpg)
+
 **Paste a complete script and get a scene-by-scene storyboard.** The app also shows a small gallery of previously generated background examples so people can see the intended kind of environment artwork.
 
 **[Open the live demo](https://storyboard-background-studio.vercel.app/)** · [View the GitHub repository](https://github.com/rayvin04/storyboard-background-studio)
